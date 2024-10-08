@@ -36,5 +36,5 @@ Consulnet CodeGirls | 06/2021
 
 [Project Link](http://cnet-web.consulnet.net/Word-Splash)
 ## Skills
-HTML | CSS | JavaScript | Python | Angular | Django | SQL | Bootstrap | C Language | WordPress
+HTML | CSS | JavaScript | Python | Angular | Django | SQL | Bootstrap | C Language | WordPress |
 Microsoft Word | PowerPoint | Excel | Communication | Time Management | Leadership
