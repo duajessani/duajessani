@@ -8,6 +8,9 @@ experience.
 • Created presentations and reports to communicate project progress.
 
 • [Project Link](mibas.org)
+### - Front-End Instructor
+### Green Island Women Wing (GIWW) | Karachi | 10/2024 - 11/2024
+• Designed and taught a 1-month front end course to women learners.
 ### - Python Instructor
 ### Green Island Women Wing (GIWW) | Karachi | 08/2024 - 09/2024
 • Designed and taught a 1-month Python course to women learners.
@@ -20,8 +23,12 @@ experience.
 
 • [Project Link](zuhrafragrances.com)
 ## Education
+
+### Nodejs Certification
+Consulnet CodeGirls | 12/2024 - Present
+
 ### BS in Computer Science
-Mohammad Ali Jinnah University (MAJU) | Karachi | 09/2020
+Mohammad Ali Jinnah University (MAJU) | Karachi 
 CGPA: 3.8
 ### Python for Everybody Certification
 University of Michigan | 07/2022
@@ -36,5 +43,5 @@ Consulnet CodeGirls | 06/2021
 
 [Project Link](http://cnet-web.consulnet.net/Word-Splash)
 ## Skills
-HTML | CSS | JavaScript | Python | Angular | Django | SQL | Bootstrap | C Language | WordPress |
+Express | Nodejs | MongoDB | HTML | CSS | JavaScript | Python | Angular | Django | SQL | Bootstrap | C Language | WordPress |
 Microsoft Word | PowerPoint | Excel | Communication | Time Management | Leadership
